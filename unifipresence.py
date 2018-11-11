@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Config File Location
 #	default is /etc/unifipresence.conf
-confFile = "C:\Python27\UniFiPresence-master\unifipresence.conf"
+confFile = "filepath\unifipresence.conf"
 
 #Imports
 import json
